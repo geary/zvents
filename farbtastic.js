@@ -1,5 +1,7 @@
 // $Id: farbtastic.js,v 1.2 2007/01/08 22:53:01 unconed Exp $
-// Farbtastic 1.2
+// Farbtastic 1.2 by Steven Wittens
+// Modified by Michael Geary - https://github.com/geary
+// Licensed under the GPL: http://www.gnu.org/licenses/gpl.html
 
 jQuery.fn.farbtastic = function (fields, callback) {
   $ZJQuery.farbtastic(this, fields, callback);

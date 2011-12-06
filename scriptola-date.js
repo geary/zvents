@@ -1,7 +1,7 @@
 //-------------------------------------------------------------------------------------------------
 // Scriptola Date
-// Copyright 2007 Michael Geary
-// Free beer and free speech license (MIT+GPL). Enjoy!
+// By Michael Geary - https://github.com/geary
+// See UNLICENSE or http://unlicense.org/ for public domain notice.
 //-------------------------------------------------------------------------------------------------
 // Requires Scriptola Base
 //-------------------------------------------------------------------------------------------------

@@ -1,7 +1,8 @@
 // colortuner.js
+// By Michael Geary - https://github.com/geary
+// See UNLICENSE or http://unlicense.org/ for public domain notice.
 
-// Undo for jQuery by Michael Geary
-// Free beer and free speech license. Enjoy!
+// Undo for jQuery
 
 (function( $ ) {
   $ZJQuery.undo = function( a ) {
@@ -56,10 +57,7 @@
   };
 })( jQuery );
 
-// colortuner.js
-// Copyright 2007 Michael Geary
-// Based on Farbtastic by Steven Wittens
-// GPL license: http://www.opensource.org/licenses/gpl-license.php
+// Color Tuner for Farbtastic
 
 function ZventsCalendarReady() {
   var inited;
@@ -398,7 +396,7 @@ function ZventsCalendarReady() {
     inited = true;
   });
 
-  // adapted from http://www.json.org/json.js
+  // adapted from https://github.com/douglascrockford/JSON-js/blob/master/json.js
   function parseJSON( json ) {
     try {
       if( /^("(\\.|[^"\\\n\r])*?"|[,:{}\[\]0-9.\-+Eaeflnr-u \n\r\t])+?$/.test( json ) )
